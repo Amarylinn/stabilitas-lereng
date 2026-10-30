@@ -1,0 +1,5 @@
+streamlit
+ezdxf>=1.1
+matplotlib
+numpy
+pandas
